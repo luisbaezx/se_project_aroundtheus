@@ -107,21 +107,10 @@
   }
 
   .profile__description {
-    font-size: 14px;
-    line-height: 16.94px;
-    max-width: 282;
   }
-
   .profile__edit-button {
-    width: 18px;
-    height: 18px;
     display: flex;
     justify-content: flex-end;
-  }
-
-  .profile__add-button {
-    width: 282px;
-    height: 50px;
   }
 
   .profile__image {

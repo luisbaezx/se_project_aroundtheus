@@ -119,11 +119,6 @@
     justify-content: flex-end;
   }
 
-  .profile__add-button {
-    width: 282px;
-    height: 50px;
-  }
-
   .profile__image {
     margin: 0;
     min-width: auto;
