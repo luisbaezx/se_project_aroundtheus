@@ -22,8 +22,6 @@
   width: 24px;
   grid-area: button;
   border: 1px white solid;
-  white-space: nowrap;
-  overflow: hidden;
 }
 
 .profile__edit-button:hover {
