@@ -10,6 +10,7 @@
   margin-left: auto;
   margin-right: auto;
   margin-top: 67px;
+  font-size: 18px;
 }
 
 @media screen and (max-width: 600px) {
@@ -19,7 +20,7 @@
 
   .footer__copyright {
     font-size: 14px;
-    margin-top: 40px;
+    margin-top: 48px;
     margin-bottom: 36px;
   }
 }
