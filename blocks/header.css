@@ -9,14 +9,18 @@
   width: 173px;
   height: 33px;
 }
-@media screen and (max-width: 450px) {
+
+@media screen and (max-width: 650px) {
   .header {
+    width: 320;
+    height: 56px;
     margin-top: 28px;
-    padding-bottom: 32px;
+    padding-bottom: 0;
   }
 
   .header__image {
     width: 126px;
     height: 24px;
+    margin-left: 27px;
   }
 }
