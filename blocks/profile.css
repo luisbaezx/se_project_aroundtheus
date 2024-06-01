@@ -109,7 +109,7 @@
   .profile {
     width: 282px;
     height: 286px;
-    justify-content: center;
+    justify-content: space-between;
     padding-top: 42px;
   }
   .profile__info {
