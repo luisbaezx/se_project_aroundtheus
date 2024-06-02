@@ -82,7 +82,6 @@
     flex-direction: column;
     align-items: center;
     max-width: 282px;
-    height: 286px;
     padding-top: 42px;
     justify-content: space-between;
   }
@@ -92,7 +91,6 @@
     flex-wrap: wrap;
     justify-content: center;
     width: 100%;
-    overflow: hidden;
     padding-top: 30px;
     margin-right: 0;
   }
@@ -126,9 +124,6 @@
 
   .profile__add-button {
     width: 282px;
-    height: 50px;
-    min-height: 50px;
-    max-height: 50px;
     box-sizing: border-box;
   }
 }
